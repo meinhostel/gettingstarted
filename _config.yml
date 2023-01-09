@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Mein Hostel
 description: Inspirations for my first Hostel
+image:
+  background: ./images/emptyspaceoceean.HEIC

@@ -1,2 +1,2 @@
-# gettingstarted
-Getting started with my first Hostel
+Mein Hostel - Collection of Ideas and Thoughts
+==============================================
